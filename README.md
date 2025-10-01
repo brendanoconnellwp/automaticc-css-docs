@@ -1,5 +1,3 @@
-# automaticc-css-docs
-
 # Automatic CSS (ACSS) Documentation
 
 A comprehensive documentation repository for Automatic CSS (ACSS), a professional CSS framework designed for WordPress page builders.
